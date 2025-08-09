@@ -1,0 +1,29 @@
+This is an example project to demonstrate using
+BubbleScript with Express for Node.
+
+This is currently experimental and in
+development, so please mind any messes, and few
+free to fork and contribute changes and
+improvements. All are welcome and appreciated.
+
+Currently, we create an index.js files that does
+some currently neccesary setup, and then we load
+the index.bubls file which does the Express
+configuaration.
+
+This can probably be improved in future release
+by creating a compiler plugin for node, like
+coffeescript does.
+
+In the index.js file we provided the require
+function and the loadScript function. These are
+realy just patches and will have proper support
+un future versions of BubbleScript, for the time
+being, this is all that is required to get this
+basic example of using e press with BubbleScript
+working.
+
+Cheers and Happy Coding!
+
+x💋x💋 Bambi
+
